@@ -9,4 +9,5 @@
 
      Filename: js03.js
  */
-
+let weekDays = ["Sunday", "Monday", "Tuesday","Wednesday","Thursday","Friday", "Saturday"];
+window.addEventListener("Load", addWeekdays);
